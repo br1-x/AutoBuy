@@ -1,0 +1,20 @@
+{
+  "BALANCE": 0,
+  "ACTIVE": true,
+  "LAST_MENU_MESSAGE_ID": 451,
+  "PROFILES": [
+    {
+      "MIN_PRICE": 100,
+      "MAX_PRICE": 200,
+      "MIN_SUPPLY": 1000,
+      "MAX_SUPPLY": 100000,
+      "LIMIT": 200,
+      "COUNT": 5,
+      "TARGET_USER_ID": 7712863044,
+      "TARGET_CHAT_ID": null,
+      "BOUGHT": 0,
+      "SPENT": 0,
+      "DONE": false
+    }
+  ]
+}
